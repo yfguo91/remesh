@@ -2,7 +2,7 @@ This is a project with vs2010 to remesh surface triangular mesh. There are still
 
 I also have a more robust (almost without no bugs) and fast (3 times) version, if you want, please email me.  
 
-There are four examples available in the repository you can use to check the performance of the program.   
+There are eight examples available in the repository you can use to check the performance of the program.   
 
 Using the same parameter in our paper ”123456”, you will get the same results.  
 For joint.stl, mparam.maxh=0.035 and mparam.minh=0.03.   
