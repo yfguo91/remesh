@@ -1,6 +1,6 @@
 This is a project with vs2010 to remesh surface triangular mesh. There are still a little bugs need to repair, but it does not affect your using. The program uses no third lib, so it is easy to be reappeared.  
 
-I also have a more robust (almost without no bugs) and fast (3 times) version, if you want, please email me.  
+I also have a more robust (almost without bugs) and fast (3 times) version, if you want, please email me.  
 
 There are eight examples available in the repository you can use to check the performance of the program.   
 
