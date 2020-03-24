@@ -4,7 +4,7 @@ I also have a more robust (almost without bugs) and fast (3 times) version, if y
 
 There are ten examples available in the repository you can use to check the performance of the program.   
 
-Using same parameter as bellow, you will get the same results in our paper"123456".  
+Using same parameter as bellow, you will get the same results as ours.  
 For joint mesh, mparam.maxh=0.035 and mparam.minh=0.03.   
 For fandisk mesh, mparam.maxh=0.15 and mparam.minh=0.1.   
 For homer mesh, mparam.maxh=0.01 and mparam.minh=0.002.   
