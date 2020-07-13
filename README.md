@@ -13,8 +13,10 @@ For bone mesh, mparam.maxh=10.0 and mparam.minh=2.0.
 For Substrate mesh, mparam.maxh=100.0 and mparam.minh=5.0.   
 For Spline mesh, mparam.maxh=10.0 and mparam.minh=5.0;   
 For Valve mesh, mparam.maxh=10.0 and mparam.minh=0.5.  
+For Rocker-arm mesh, mparam.maxh=1.50 and mparam.minh=0.75.  
+For Rotor mesh, mparam.maxh=0.015 and mparam.minh=0.018.  
 
-We also implemented a simple algorithm to clean unnecessary features, please open on the function "FixGeometry" in the "stlgeom.cpp" file. There are also two examples.  
+We also implemented a simple algorithm to clean unnecessary features, please open on the function "FixGeometry" in the "stlgeom.cpp" file and you may need to adjust the cleaning threshold. There are also two examples.  
 For horse mesh, mparam.maxh=0.02 and mparam.minh=0.01.   
 For elk mesh, mparam.maxh=1.5 and mparam.minh=1.2.   
 
