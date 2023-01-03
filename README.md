@@ -1,3 +1,5 @@
+This is the implementation of our paper "Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method" published in Applied Mathematical Modelling 2021.
+
 This is a project with vs2010 to remesh surface triangular mesh. There are still a little bugs need to repair, but it does not affect your using. The program uses no third lib, so it is easy to be reappeared.  
 
 I also have a more robust (almost without bugs) and fast (3 times) version, if you want, please email me.  
